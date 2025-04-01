@@ -426,6 +426,7 @@ footer {
  opacity: 0.9;
         background-color: #333;
         width: 98%;
+        
         margin-right: 2%;
         flex-direction: column;
         text-align: center;
@@ -439,6 +440,7 @@ footer {
 
     .menu-label{
         display: block;
+        font-size: 27px;
     }
     #menu-check:checked ~ ul{
         margin-top: 0;
