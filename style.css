@@ -390,8 +390,7 @@ footer {
 }
 .social-icons a.iconTelegram{
     border-radius: 50%;
-    background-color: #3484cf;
-    color: rgb(234, 234, 245);
+    
     width: 50px;
 }
 .social-icons a.iconTelegram:hover{
